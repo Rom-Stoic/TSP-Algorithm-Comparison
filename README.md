@@ -191,29 +191,6 @@ results = run_comprehensive_comparison()
 - **实用指导**: 为实际应用提供科学的算法选择建议
 - **扩展潜力**: 框架可扩展到其他组合优化问题
 
-## 🤝 贡献指南
-
-欢迎对项目进行改进和扩展！
-
-### 如何贡献
-1. **Fork项目** 到您的GitHub账户
-2. **创建特性分支** (`git checkout -b feature/AmazingFeature`)
-3. **提交更改** (`git commit -m 'Add some AmazingFeature'`)
-4. **推送分支** (`git push origin feature/AmazingFeature`)
-5. **开启Pull Request**
-
-### 贡献方向
-- 🔧 添加新的TSP求解算法
-- 📊 改进可视化效果和交互性
-- 🚀 优化算法性能和实现
-- 📖 完善文档和注释
-- 🧪 增加测试用例和验证
-- 🌍 支持更多测试数据集
-
-## 📄 许可证
-
-本项目采用 MIT 许可证 - 详细信息请查看 [LICENSE](LICENSE) 文件
-
 ## 👥 作者信息
 
 **项目团队**: 北京大学生物数学建模课程小组
