@@ -148,14 +148,6 @@ results = run_comprehensive_comparison()
 | 🔬 算法研究对比 | 传统蚁群优化 | 经典基准，文献丰富 |
 | 🎲 性能底线评估 | 随机路径 | 最低基线，验证有效性 |
 
-## 📁 项目结构
-
-```
-📁 项目根目录/
-├── 📊 TSP_Algorithms_Comprehensive_Comparison.ipynb  # 主要分析文件
-├── 🗺️ map_1.0.jpg                                  # 北京大学校园地图
-└── 📖 README.md                                    # 项目说明文档
-```
 
 ## 🔧 技术特性
 
