@@ -148,14 +148,6 @@ results = run_comprehensive_comparison()
 | 🔬 算法研究对比 | 传统蚁群优化 | 经典基准，文献丰富 |
 | 🎲 性能底线评估 | 随机路径 | 最低基线，验证有效性 |
 
-## 📁 项目结构
-
-```
-📁 项目根目录/
-├── 📊 TSP_Algorithms_Comprehensive_Comparison.ipynb  # 主要分析文件
-├── 🗺️ map_1.0.jpg                                  # 北京大学校园地图
-└── 📖 README.md                                    # 项目说明文档
-```
 
 ## 🔧 技术特性
 
@@ -190,29 +182,6 @@ results = run_comprehensive_comparison()
 - **研究基准**: 可作为其他TSP研究的对比基准
 - **实用指导**: 为实际应用提供科学的算法选择建议
 - **扩展潜力**: 框架可扩展到其他组合优化问题
-
-## 🤝 贡献指南
-
-欢迎对项目进行改进和扩展！
-
-### 如何贡献
-1. **Fork项目** 到您的GitHub账户
-2. **创建特性分支** (`git checkout -b feature/AmazingFeature`)
-3. **提交更改** (`git commit -m 'Add some AmazingFeature'`)
-4. **推送分支** (`git push origin feature/AmazingFeature`)
-5. **开启Pull Request**
-
-### 贡献方向
-- 🔧 添加新的TSP求解算法
-- 📊 改进可视化效果和交互性
-- 🚀 优化算法性能和实现
-- 📖 完善文档和注释
-- 🧪 增加测试用例和验证
-- 🌍 支持更多测试数据集
-
-## 📄 许可证
-
-本项目采用 MIT 许可证 - 详细信息请查看 [LICENSE](LICENSE) 文件
 
 ## 👥 作者信息
 
